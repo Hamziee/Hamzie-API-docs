@@ -16,6 +16,6 @@ Simply send a **GET request** to the following endpoint:
 https://api.hamzie.site/v1/images/xiaojie
 ```
 
-The link to the latest Xiaojie picture will be provided in the JSON response's link section.
+The link to a random Xiaojie picture will be provided in the JSON response's link section.
 
 ![Least adorable picture of Xiaojie.](/static/xiaojie.jpg)
