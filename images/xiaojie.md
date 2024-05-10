@@ -1,5 +1,6 @@
 ---
 order: 10000
+icon: image
 ---
 
 # Xiaojie
@@ -9,10 +10,12 @@ Add this adorable cat to your projects! You can get random pictures of Xiaojie, 
 
 ## Usage.
 
-Simply send a GET request to the following endpoint:
+Simply send a **GET request** to the following endpoint:
 
 ```
-GET https://api.hamzie.site/v1/images/xiaojie
+https://api.hamzie.site/v1/images/xiaojie
 ```
 
 The link to the latest Xiaojie picture will be provided in the JSON response's link section.
+
+![Least adorable picture of Xiaojie.](/static/xiaojie.jpg)

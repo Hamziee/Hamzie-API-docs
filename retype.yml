@@ -6,8 +6,16 @@ branding:
   label: Docs
 links:
 - text: Main Website
+  icon: cross-reference
   link: https://hamzie.site/
-- text: Github
+  target: _blank
+- text: Github Project
+  icon: mark-github
+  link: https://github.com/Hamziee/Hamzie-API
+  target: _blank
+- text: Personal Github Page
+  icon: mark-github
   link: https://github.com/Hamziee
+  target: _blank
 footer:
-  copyright: "&copy; {{ year }} Hamziee All Rights Reserved. | :icon-git-branch: v1.0.0"
+  copyright: "&copy; {{ year }} Hamziee All Rights Reserved. | :icon-git-branch: v1.0.1"
