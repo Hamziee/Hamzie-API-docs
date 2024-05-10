@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: https://docs-api.hamzie.site/
+branding:
+  title: Hamzie API
+  label: Docs
+links:
+- text: Main Website
+  link: https://hamzie.site/
+- text: Github
+  link: https://github.com/Hamziee
+footer:
+  copyright: "&copy; {{ year }} Hamziee All Rights Reserved. | :icon-git-branch: v1.0.0"
