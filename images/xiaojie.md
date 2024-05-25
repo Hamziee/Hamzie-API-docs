@@ -1,6 +1,8 @@
 ---
+
 order: 10000
 icon: image
+
 ---
 
 # Xiaojie
@@ -8,7 +10,10 @@ icon: image
 
 Add this adorable cat to your projects! You can get random pictures of Xiaojie, the adorable cat. I update the collection of pictures daily, so you can always enjoy its cuteness!
 
-## Usage.
+**Last checked for new pictures:** `2024-05-26 00:44 GMT+2`  
+**Last new pictures added:** `2024-05-26 00:44 GMT+2`
+
+## Usage
 
 Simply send a **GET request** to the following endpoint:
 
