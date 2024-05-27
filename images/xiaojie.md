@@ -10,8 +10,8 @@ icon: image
 
 Add this adorable cat to your projects! You can get random pictures of Xiaojie, the adorable cat. I update the collection of pictures daily, so you can always enjoy its cuteness!
 
-**Last checked for new pictures:** `2024-05-26 00:44 GMT+2`  
-**Last new pictures added:** `2024-05-26 00:44 GMT+2`
+**Last checked for new pictures:** `2024-05-28 00:44 GMT+2`  
+**Last new pictures added:** `2024-05-28 00:44 GMT+2`
 
 ## Usage
 
