@@ -9,7 +9,7 @@ icon: image
 
 Add some warmth to your projects with these heartwarming hugging gifs! You can get random hugging gifs to spread love and comfort. I update the collection frequently, so you can always enjoy and share the coziness!
 
-**Fresh hugs added frequently:** <br>`Last update: 2024-05-30 00:37 GMT+2`<br>`Amount added: 7 gifs` **|** `Total amount: 42 gifs`
+**Fresh hugs added frequently:** <br>`Last update: 2024-05-30 00:37 GMT+2`<br>`Amount added: 7 gifs` **|** `Total amount: 49 gifs`
 
 <br>
 
