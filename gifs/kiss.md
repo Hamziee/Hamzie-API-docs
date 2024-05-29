@@ -9,7 +9,7 @@ icon: image
 
 Add a touch of romance to your projects with these charming kiss gifs! You can get random kiss gifs to spread love and affection. I update the collection frequently, so there's always new content to enjoy and share!
 
-**Fresh kisses added frequently:** <br>`Last update: 2024-05-28 00:44 GMT+2`<br>`Amount added: 42 gifs` **|** `Total amount: 42 gifs`
+**Fresh kisses added frequently:** <br>`Last update: 2024-05-30 00:28 GMT+2`<br>`Amount added: 9 gifs` **|** `Total amount: 57 gifs`
 
 <br>
 
