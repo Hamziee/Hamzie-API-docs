@@ -37,4 +37,4 @@ You will receive a link to a random head pat gif in the JSON response's `link` s
 
 <br>
 
-![Example gif.](/static/headpat.gif)
+![Example gif.](/static/headpats.gif)
