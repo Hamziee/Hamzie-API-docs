@@ -18,7 +18,7 @@ Bring some joy to your projects with these delightful head pat gifs! You can get
 Send a **GET request** to the following endpoint:
 
 ```
-https://api.hamzie.site/v1/gifs/headpat
+https://api.hamzie.site/v1/gifs/headpats
 ```
 
 You will receive a link to a random head pat gif in the JSON response's `link` section.
@@ -28,7 +28,7 @@ You will receive a link to a random head pat gif in the JSON response's `link` s
 ## Example Response
 
 ```
-{"link":"https://cdn.hamzie.site/Hamzie-API/gifs/headpat/1.gif"}
+{"link":"https://cdn.hamzie.site/Hamzie-API/gifs/headpats/1.gif"}
 ```
 
 <br>
